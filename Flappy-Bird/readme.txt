@@ -1,0 +1,1 @@
+The file "index.html" can only be opened in firefox brower; The control code is mainly written in "src-->screens-->MainScreen.js"
